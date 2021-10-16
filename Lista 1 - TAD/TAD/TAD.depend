@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634418596 source:c:\users\gusta\documents\c\tad-string\tad\stringfulano.c
+	<stdio.h>
+	<stdlib.h>
+	"stringFulano.h"
+
+1634418461 c:\users\gusta\documents\c\tad-string\tad\stringfulano.h
+
+1634418993 source:c:\users\gusta\documents\c\tad-string\tad\progrcliente.c
+	<stdio.h>
+	<stdlib.h>
+	"stringFulano.h"
+
